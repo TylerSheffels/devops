@@ -1,0 +1,4 @@
+APPLICATION_NAME = 'DEVOPS'
+USERNAME = 'Replace'
+
+DEBUG = False
