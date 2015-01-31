@@ -1,2 +1,4 @@
 localsettings.py
 *.pyc
+*.swp
+.idea/
