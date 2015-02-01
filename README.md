@@ -1,5 +1,9 @@
 Testing Devops Prompt
 
+## Installation
+`$ sudo apt-get install sqlite3`
+`$ pip install -r requirements/requirements.txt`
+
 ## To Run:
 `python devops.py`
 
